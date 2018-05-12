@@ -1,0 +1,33 @@
+_repo: An-Interpretation-of-Friends-Worship_24576
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Toomer, Jean
+    aliases:
+    - Toomer, N. Jean
+    - Pinchback, Nathan Eugene
+    birthdate: 1894
+    deathdate: 1967
+    gutenberg_agent_id: '26592'
+    url: http://www.gutenberg.org/2009/agents/26592
+    wikipedia: http://en.wikipedia.org/wiki/Jean_Toomer
+description: Cover; An Interpretation of Friends Worship; Copyright; CONTENTS; INTRODUCTION;
+  WORSHIP AND LOVE; THE BASIS OF FRIENDS WORSHIP AND OTHER INWARD PRACTICES; WHAT
+  TO DO IN THE MEETING FOR WORSHIP; QUESTIONS AND ANSWERS.
+gutenberg_issued: '2008-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24576'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Society of Friends -- Doctrines'
+- !lcsh 'Public worship -- Society of Friends'
+title: An Interpretation of Friends Worship
+url: http://www.gutenberg.org/ebooks/24576
